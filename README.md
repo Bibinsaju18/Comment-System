@@ -1,4 +1,4 @@
-# ![Laravel Example App](logo.png)
+
 
 Clone the repository
 
